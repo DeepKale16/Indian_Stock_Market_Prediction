@@ -1,0 +1,20 @@
+{
+    "normalized": {
+        "rmse": 0.0448,
+        "mae": 0.0351,
+        "mape": 4.51,
+        "r2_score": 0.7585
+    },
+    "inr_scale": {
+        "rmse": 494.61,
+        "mae": 387.44,
+        "mape": 1.62,
+        "r2_score": 0.7585
+    },
+    "report_benchmark": {
+        "rmse": 0.0327,
+        "mae": 0.0277,
+        "mape": 16.38,
+        "r2_score": 0.9297
+    }
+}
